@@ -121,6 +121,7 @@ msgstr "Banner habilitado para contenido"
 msgid "Banner enabled on content and sub-contents"
 msgstr "Banner habilitado en contenido y subcontenidos"
 
+
 #: cpskin.core/cpskin/core/browser/folderview.py:311
 msgid "Big images are not used anymore on this folder view."
 msgstr "Las imágenes grandes ya no se usan en esta vista de carpeta."
@@ -158,7 +159,7 @@ msgstr "CPSKIN - Flujo de trabajo: actualizar a v1"
 msgid "CPSkin"
 msgstr "CPSkin"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:262
+#: cpskin.core/cpskin/core/browser/controlpanel.py:270
 msgid "CPSkin settings"
 msgstr "Preferencias CPSkin"
 
@@ -336,6 +337,11 @@ msgstr "¿Desea mostrar descripciones de elementos en la vista de inicio?"
 msgid "Do you want to show lead image on index view ?"
 msgstr "¿Desea mostrar la imagen principal en la vista de inicio?"
 
+#: cpskin.core/cpskin/core/interfaces.py:243
+#: cpskin.core/cpskin/core/upgradehandlers.py:546
+msgid "Do you want to use slick instead of flexslider ?"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/indexview.py:174
 msgid "Do you want to use the new (experimental) template ?"
 msgstr "¿Quieres usar la nueva plantilla (experimental)?"
@@ -377,7 +383,7 @@ msgstr "Vista previa de contactos facetados"
 msgid "Faceted events preview"
 msgstr "Vista previa de eventos facetados"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:231
+#: cpskin.core/cpskin/core/browser/configure.zcml:240
 msgid "Faceted items leadimage"
 msgstr "Elementos de imagen destacadas facetadas"
 
@@ -630,7 +636,7 @@ msgstr "Título de imagen principal"
 msgid "Legal notice"
 msgstr "Aviso legal"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:263
+#: cpskin.core/cpskin/core/browser/controlpanel.py:271
 msgid "Lets you change the settings of CPSkin"
 msgstr "Le permite cambiar la configuración de CPSkin"
 
@@ -1177,6 +1183,11 @@ msgstr "Usar nueva plantilla"
 msgid "Use related contacts fields for Event"
 msgstr "Usar campos de contactos relacionados para el Evento"
 
+#: cpskin.core/cpskin/core/interfaces.py:242
+#: cpskin.core/cpskin/core/upgradehandlers.py:545
+msgid "Use slick for slider"
+msgstr ""
+
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
 msgid "Useful links"
 msgstr "Enlaces de interés"
@@ -1186,7 +1197,7 @@ msgstr "Enlaces de interés"
 msgid "View"
 msgstr "Vista"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:396
+#: cpskin.core/cpskin/core/browser/configure.zcml:405
 msgid "View Document with description"
 msgstr "Ver Documento con descripción"
 
@@ -1220,7 +1231,7 @@ msgstr "Ver todos"
 msgid "Vue index avec collections configurée."
 msgstr "Vista de inicio con colecciones configuradas."
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:214
+#: cpskin.core/cpskin/core/browser/configure.zcml:223
 msgid "Vue index avec collections et slider"
 msgstr "Vista de inicio con colecciones y diapositivas"
 
@@ -1661,7 +1672,7 @@ msgid "label_standard_tags"
 msgstr "Etiquetas Standard"
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:427
 msgid "modifier_zone_statique"
 msgstr "[Cambiar área estática]"
 

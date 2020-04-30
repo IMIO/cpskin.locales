@@ -39,6 +39,7 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
+
 #: cpskin.agenda/cpskin/agenda/faceted/views/preview-events.pt:46
 #: cpskin.agenda/cpskin/agenda/faceted/views/view-agenda.pt:46
 msgid "A maximum of ${limit} days including events is displayed."
@@ -154,7 +155,7 @@ msgstr ""
 msgid "CPSkin"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:262
+#: cpskin.core/cpskin/core/browser/controlpanel.py:270
 msgid "CPSkin settings"
 msgstr ""
 
@@ -332,6 +333,11 @@ msgstr ""
 msgid "Do you want to show lead image on index view ?"
 msgstr ""
 
+#: cpskin.core/cpskin/core/interfaces.py:243
+#: cpskin.core/cpskin/core/upgradehandlers.py:546
+msgid "Do you want to use slick instead of flexslider ?"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/indexview.py:174
 msgid "Do you want to use the new (experimental) template ?"
 msgstr ""
@@ -373,7 +379,7 @@ msgstr ""
 msgid "Faceted events preview"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:231
+#: cpskin.core/cpskin/core/browser/configure.zcml:240
 msgid "Faceted items leadimage"
 msgstr ""
 
@@ -1173,6 +1179,11 @@ msgstr ""
 msgid "Use related contacts fields for Event"
 msgstr ""
 
+#: cpskin.core/cpskin/core/interfaces.py:242
+#: cpskin.core/cpskin/core/upgradehandlers.py:545
+msgid "Use slick for slider"
+msgstr ""
+
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
 msgid "Useful links"
 msgstr ""
@@ -1182,7 +1193,7 @@ msgstr ""
 msgid "View"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:396
+#: cpskin.core/cpskin/core/browser/configure.zcml:405
 msgid "View Document with description"
 msgstr ""
 
@@ -1216,7 +1227,7 @@ msgstr "Alle"
 msgid "Vue index avec collections configurée."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:214
+#: cpskin.core/cpskin/core/browser/configure.zcml:223
 msgid "Vue index avec collections et slider"
 msgstr ""
 
@@ -1296,7 +1307,6 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:597
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -1657,7 +1667,7 @@ msgid "label_standard_tags"
 msgstr ""
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:427
 msgid "modifier_zone_statique"
 msgstr ""
 

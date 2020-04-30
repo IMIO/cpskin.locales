@@ -157,7 +157,7 @@ msgstr "CPSKIN Workflow: mettre à jour vers la v1"
 msgid "CPSkin"
 msgstr "CPSkin"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:262
+#: cpskin.core/cpskin/core/browser/controlpanel.py:270
 msgid "CPSkin settings"
 msgstr "Configuration de CPSkin"
 
@@ -335,6 +335,11 @@ msgstr "Voulez-vous voir les descriptions dans la vue index ?"
 msgid "Do you want to show lead image on index view ?"
 msgstr "Voulez-vous voir les images liées dans la vue index ?"
 
+#: cpskin.core/cpskin/core/interfaces.py:243
+#: cpskin.core/cpskin/core/upgradehandlers.py:546
+msgid "Do you want to use slick instead of flexslider ?"
+msgstr "Voulez-vous utiliser la librairie slick à la place de flexslider ?"
+
 #: cpskin.core/cpskin/core/behaviors/indexview.py:174
 msgid "Do you want to use the new (experimental) template ?"
 msgstr "Voulez-vous utiliser la nouvelle template de vue index (expérimentale) ?"
@@ -376,7 +381,7 @@ msgstr "Vue annuaire"
 msgid "Faceted events preview"
 msgstr "Vue événement"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:231
+#: cpskin.core/cpskin/core/browser/configure.zcml:240
 msgid "Faceted items leadimage"
 msgstr "Vue facettes avec images"
 
@@ -1176,6 +1181,11 @@ msgstr "Utiliser la nouvelle template"
 msgid "Use related contacts fields for Event"
 msgstr "Utiliser les liens vers les contacts pour le événements"
 
+#: cpskin.core/cpskin/core/interfaces.py:242
+#: cpskin.core/cpskin/core/upgradehandlers.py:545
+msgid "Use slick for slider"
+msgstr "Utiliser slick pour les sliders"
+
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
 msgid "Useful links"
 msgstr "Liens utiles"
@@ -1185,7 +1195,7 @@ msgstr "Liens utiles"
 msgid "View"
 msgstr "Vue"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:396
+#: cpskin.core/cpskin/core/browser/configure.zcml:405
 msgid "View Document with description"
 msgstr "Vue du document avec la description"
 
@@ -1219,7 +1229,7 @@ msgstr "Voir l'ensemble des"
 msgid "Vue index avec collections configurée."
 msgstr "Vue index avec collections configurées."
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:214
+#: cpskin.core/cpskin/core/browser/configure.zcml:223
 msgid "Vue index avec collections et slider"
 msgstr "Vue index avec collections et slider"
 
@@ -1665,7 +1675,7 @@ msgid "label_standard_tags"
 msgstr "Mot clé standard"
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:427
 msgid "modifier_zone_statique"
 msgstr "[Modifier la zone statique]"
 
