@@ -7,6 +7,25 @@ Changelog
 - WEB-3302: Add translations for the new `use_slick` parameter
   [mpeeters]
 
+- Update translations
+  [macagua]
+
+- Add Transifex.net project integration support
+  https://www.transifex.com/plone/plonegov-imio/
+  [macagua]
+
+- Add domains missing and update translations.
+  [macagua]
+
+- Complete cpskin for Spanish translation.
+  [macagua]
+
+- Add cpskin.citizen domain for Spanish translation.
+  [macagua]
+
+- Add plone.app.event domain for Spanish translation.
+  [macagua]
+
 
 0.5.30 (2020-01-15)
 -------------------

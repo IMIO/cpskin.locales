@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
@@ -9,12 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language-Code: fr\n"
-"Language-Name: French\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: plone.app.event\n"
 "Language: \n"
-"X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:66
 msgid "(${start_tzname} / UTC${start_utcoffset})"
@@ -22,52 +22,52 @@ msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:85
 msgid "All dates"
-msgstr ""
+msgstr "All dates"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:186
 msgid "Booking type"
-msgstr ""
+msgstr "Booking type"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:67
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:108
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:12
 msgid "Date range for events"
-msgstr ""
+msgstr "Date range for events"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:49
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:91
 msgid "Location"
-msgstr ""
+msgstr "Location"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:58
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:50
 msgid "Organizer"
-msgstr ""
+msgstr "Organizer"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:78
 msgid "Partner"
-msgstr ""
+msgstr "Partner"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:76
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:177
 msgid "Partners"
-msgstr ""
+msgstr "Partners"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:191
 msgid "Price"
-msgstr ""
+msgstr "Price"
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:22
 msgid "Simple date for events"
-msgstr ""
+msgstr "Simple date for events"
 
 #. Default: "Attendees"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:171
 msgid "contact_attendees"
-msgstr ""
+msgstr "contact_attendees"
 
 #. Default: "Contact Name"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:131
