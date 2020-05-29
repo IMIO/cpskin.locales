@@ -4,6 +4,9 @@ Changelog
 0.5.31 (unreleased)
 -------------------
 
+- WEBOTT-25: Add translations for folderish types contents / edit menus
+  [laulaz]
+
 - WEB-3302: Add translations for the new `use_slick` parameter
   [mpeeters]
 

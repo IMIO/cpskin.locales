@@ -307,7 +307,7 @@ msgstr "Intervalle de dates pour les événements"
 
 #: cpskin.core/cpskin/core/browser/contentviews.pt:38
 msgid "Default view"
-msgstr ""
+msgstr "Vue par défaut"
 
 #: cpskin.core/cpskin/core/behaviors/directory.py:13
 msgid "Directory view"
@@ -814,7 +814,7 @@ msgstr "Où ?"
 
 #: cpskin.core/cpskin/core/browser/contentviews.pt:45
 msgid "Parent folder"
-msgstr ""
+msgstr "Dossier parent"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:78
 msgid "Partner"
