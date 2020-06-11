@@ -4,6 +4,11 @@ Changelog
 0.5.31 (unreleased)
 -------------------
 
+- update translations
+  [boulch]
+- Add translations for cpskin.core : plone.app.contenttypes.browser.templates.listing_summary.pt
+  [boulch]
+
 - WEBOTT-25: Add translations for folderish types contents / edit menus
   [laulaz]
 
