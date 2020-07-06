@@ -4,7 +4,10 @@ Changelog
 0.5.32 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- update some cpskin.contenttypes translations
+  [boulch]
+- Pinned isort = 4.3.21 and zipp =<2.0.0 to keep python2.x compatibility
+  [boulch]
 
 
 0.5.31 (2020-06-11)
