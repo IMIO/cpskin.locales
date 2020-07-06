@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2020-07-01 09:34+0000\n"
+"POT-Creation-Date: 2020-07-06 12:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -575,7 +575,7 @@ msgstr ""
 msgid "Installs CPSkin agenda"
 msgstr ""
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "Installs CPSkin content types"
 msgstr ""
 
@@ -673,10 +673,6 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:271
 msgid "Lets you change the settings of CPSkin"
-msgstr ""
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:26
-msgid "Link to e-guichet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -835,6 +831,10 @@ msgstr ""
 msgid "Pause"
 msgstr ""
 
+#: cpskin/contenttypes/browser/templates/procedure.pt:29
+msgid "Perform this procedure on e-guichet"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/directorycontact.py:40
 msgid "Phones"
 msgstr ""
@@ -878,10 +878,6 @@ msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 msgid "Procedure"
-msgstr ""
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:13
-msgid "Procedure E-guichet"
 msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
@@ -1394,7 +1390,7 @@ msgstr ""
 msgid "cpskin.agenda"
 msgstr ""
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "cpskin.contenttypes"
 msgstr ""
 
@@ -1402,7 +1398,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:606
+#: cpskin.core/cpskin/core/profiles.zcml:615
 msgid "cpskin.core: init"
 msgstr ""
 

@@ -568,7 +568,7 @@ msgstr ""
 msgid "Installs CPSkin agenda"
 msgstr ""
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "Installs CPSkin content types"
 msgstr ""
 
@@ -666,10 +666,6 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:271
 msgid "Lets you change the settings of CPSkin"
-msgstr ""
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:26
-msgid "Link to e-guichet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -828,6 +824,10 @@ msgstr ""
 msgid "Pause"
 msgstr ""
 
+#: cpskin/contenttypes/browser/templates/procedure.pt:29
+msgid "Perform this procedure on e-guichet"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/directorycontact.py:40
 msgid "Phones"
 msgstr ""
@@ -871,10 +871,6 @@ msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 msgid "Procedure"
-msgstr ""
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:13
-msgid "Procedure E-guichet"
 msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
@@ -1387,7 +1383,7 @@ msgstr ""
 msgid "cpskin.agenda"
 msgstr ""
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "cpskin.contenttypes"
 msgstr ""
 
@@ -1395,7 +1391,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:606
+#: cpskin.core/cpskin/core/profiles.zcml:615
 msgid "cpskin.core: init"
 msgstr ""
 

@@ -572,7 +572,7 @@ msgstr "Instalar paquete collective.contact.core"
 msgid "Installs CPSkin agenda"
 msgstr "Instalar agenda CPSkin"
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "Installs CPSkin content types"
 msgstr "Instalar tipos de contenidos CPSkin"
 
@@ -671,10 +671,6 @@ msgstr "Aviso legal"
 #: cpskin.core/cpskin/core/browser/controlpanel.py:271
 msgid "Lets you change the settings of CPSkin"
 msgstr "Le permite cambiar la configuración de CPSkin"
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:26
-msgid "Link to e-guichet"
-msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Links in social viewlet"
@@ -832,6 +828,10 @@ msgstr "Ruta ${search_path}<br /> Dominio ${domain}<br /> <span class=\"discreet
 msgid "Pause"
 msgstr "Pausa"
 
+#: cpskin/contenttypes/browser/templates/procedure.pt:29
+msgid "Perform this procedure on e-guichet"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/directorycontact.py:40
 msgid "Phones"
 msgstr "Teléfonos"
@@ -876,10 +876,6 @@ msgstr "Precio"
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 msgid "Procedure"
 msgstr "Procedimiento"
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:13
-msgid "Procedure E-guichet"
-msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 msgid "Procedure with specifications"
@@ -1391,7 +1387,7 @@ msgstr "<h4>¿Cómo codificar un elemento en el sitio?</h4> <p>&nbsp;</p> <ul> <
 msgid "cpskin.agenda"
 msgstr "cpskin.agenda"
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "cpskin.contenttypes"
 msgstr "cpskin.contenttypes"
 
@@ -1399,7 +1395,7 @@ msgstr "cpskin.contenttypes"
 msgid "cpskin.core: default"
 msgstr "cpskin.core: predeterminado"
 
-#: cpskin.core/cpskin/core/profiles.zcml:606
+#: cpskin.core/cpskin/core/profiles.zcml:615
 msgid "cpskin.core: init"
 msgstr "cpskin.core: init"
 

@@ -571,7 +571,7 @@ msgstr "Installer le produit collective.contact.core"
 msgid "Installs CPSkin agenda"
 msgstr "Installer CPSKIN agenda"
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "Installs CPSkin content types"
 msgstr "Installs CPSkin content types"
 
@@ -670,10 +670,6 @@ msgstr "Mentions L&eacute;gales"
 #: cpskin.core/cpskin/core/browser/controlpanel.py:271
 msgid "Lets you change the settings of CPSkin"
 msgstr "Vous permet de changer la configuration de CPSkin"
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:26
-msgid "Link to e-guichet"
-msgstr "Lien vers le guichet en ligne"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Links in social viewlet"
@@ -831,6 +827,10 @@ msgstr "Chemin ${search_path}<br /> Domaine ${domain}<br /> <span class=\"discre
 msgid "Pause"
 msgstr ""
 
+#: cpskin/contenttypes/browser/templates/procedure.pt:29
+msgid "Perform this procedure on e-guichet"
+msgstr "Effectuer cette démarche en ligne"
+
 #: cpskin.core/cpskin/core/behaviors/directorycontact.py:40
 msgid "Phones"
 msgstr "Téléphone"
@@ -875,10 +875,6 @@ msgstr "Tarifs"
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 msgid "Procedure"
 msgstr "Démarche"
-
-#: cpskin/contenttypes/browser/templates/procedure.pt:13
-msgid "Procedure E-guichet"
-msgstr "Démarche en ligne (e-guichet)"
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 msgid "Procedure with specifications"
@@ -1390,7 +1386,7 @@ msgstr "<h4>Comment encoder un élément sur le site ?</h4> <p>&nbsp;</p> <ul> <
 msgid "cpskin.agenda"
 msgstr "cpskin.agenda"
 
-#: cpskin/contenttypes/configure.zcml:20
+#: cpskin/contenttypes/configure.zcml:21
 msgid "cpskin.contenttypes"
 msgstr "cpskin.contenttypes"
 
@@ -1398,7 +1394,7 @@ msgstr "cpskin.contenttypes"
 msgid "cpskin.core: default"
 msgstr "cpskin.core: default"
 
-#: cpskin.core/cpskin/core/profiles.zcml:606
+#: cpskin.core/cpskin/core/profiles.zcml:615
 msgid "cpskin.core: init"
 msgstr "cpskin.core: initier"
 
