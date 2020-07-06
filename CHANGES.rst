@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.32 (unreleased)
+0.5.32 (2020-07-06)
 -------------------
 
 - update some cpskin.contenttypes translations
