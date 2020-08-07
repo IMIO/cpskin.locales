@@ -4,8 +4,8 @@ Changelog
 0.5.33 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- update some cpskin.core translations
+  [boulch]
 
 0.5.32 (2020-07-06)
 -------------------
@@ -90,7 +90,7 @@ Changelog
 
 - Add translations for custom register form : WEB-2883
   [laulaz]
-  
+
 - Fix collapsable menu translations
   [laulaz]
 
