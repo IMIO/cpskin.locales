@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.33 (unreleased)
+0.5.33 (2020-08-11)
 -------------------
 
 - update some cpskin.core translations
