@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.34 (unreleased)
+0.5.34 (2020-08-24)
 -------------------
 
 - Update translation files
