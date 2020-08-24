@@ -4,7 +4,8 @@ Changelog
 0.5.34 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translation files
+  [mpeeters]
 
 
 0.5.33 (2020-08-11)
