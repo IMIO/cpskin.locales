@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.35 (unreleased)
+0.5.35 (2020-09-10)
 -------------------
 
 - [SUP-8894] : Corrected fr spelling
