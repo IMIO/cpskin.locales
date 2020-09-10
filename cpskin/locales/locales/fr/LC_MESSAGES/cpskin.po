@@ -1670,13 +1670,13 @@ msgstr "Les mots clés cachés sont utilisés par le webmaster pour organiser di
 #: cpskin.core/cpskin/core/behaviors/metadata.py:93
 #: cpskin.core/cpskin/core/extender.py:61
 msgid "help_iam_tags"
-msgstr "Les mots clés - Je suis - sont utilisés dans le câdre de la navigation par facettes"
+msgstr "Les mots clés - Je suis - sont utilisés dans le cadre de la navigation par facettes"
 
 #. Default: "I Search Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/behaviors/metadata.py:72
 #: cpskin.core/cpskin/core/extender.py:76
 msgid "help_isearch_tags"
-msgstr "Les mots clés - Je trouve - sont utilisés dans le câdre de la navigation par facettes"
+msgstr "Les mots clés - Je trouve - sont utilisés dans le cadre de la navigation par facettes"
 
 #. Default: "Your email address."
 #: cpskin.core/cpskin/core/browser/interfaces.py:13

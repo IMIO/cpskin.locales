@@ -4,7 +4,8 @@ Changelog
 0.5.35 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- [SUP-8894] : Corrected fr spelling
+  [boulch]
 
 
 0.5.34 (2020-08-24)
