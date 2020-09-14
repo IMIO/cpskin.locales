@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.36 (unreleased)
+0.5.36 (2020-09-14)
 -------------------
 
 - WEB-3397: Add a missing translation for faceted result counter
