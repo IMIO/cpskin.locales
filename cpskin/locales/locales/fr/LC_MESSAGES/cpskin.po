@@ -29,7 +29,7 @@ msgstr " à "
 #: cpskin.agenda/cpskin/agenda/faceted/views/view-agenda-ungrouped.pt:20
 #: cpskin.core/cpskin/core/faceted/views/preview-contacts.pt:22
 msgid "${count} result(s)"
-msgstr ""
+msgstr "${count} résultat(s)"
 
 #: cpskin.core/cpskin/core/viewlets/related_contacts.pt:64
 msgid "(fax)"

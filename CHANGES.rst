@@ -4,7 +4,8 @@ Changelog
 0.5.36 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- WEB-3397: Add a missing translation for faceted result counter
+  [mpeeters]
 
 
 0.5.35 (2020-09-10)
