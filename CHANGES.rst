@@ -305,7 +305,8 @@ Changelog
 - Improve handling of translations that appeared in all domains by :
    - narrowing packages to include
    - using new "regular expressions" exclude feature of i18ndude
-  [laulaz]
+
+   [laulaz]
 
 
 0.5.4 (2016-07-01)
