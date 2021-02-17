@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2020-06-11 12:09+0000\n"
+"POT-Creation-Date: 2021-02-17 13:31+0000\n"
 "PO-Revision-Date: 2019-12-24 17:53+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French (https://www.transifex.com/plone/teams/10519/fr/)\n"
@@ -30,7 +30,7 @@ msgstr "Type d'enregistrement"
 msgid "Contact"
 msgstr "Contact"
 
-#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:12
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:13
 msgid "Date range for events"
 msgstr "Intervalle de dates pour les événements"
 

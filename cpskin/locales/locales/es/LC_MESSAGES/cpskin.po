@@ -44,12 +44,16 @@ msgstr "navegación de 4to nivel deshabilitada en el contenido"
 msgid "4th level navigation enabled on content"
 msgstr "navegación de 4to nivel habilitada en el contenido"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:685
-#: cpskin.policy/cpskin/policy/setuphandlers.py:175
+#: cpskin.core/cpskin/core/viewlets/footer.pt:12
+msgid "Accessibility"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:688
+#: cpskin.policy/cpskin/policy/setuphandlers.py:195
 msgid "Actualités"
 msgstr "Noticias"
 
-#: cpskin.policy/cpskin/policy/setuphandlers.py:176
+#: cpskin.policy/cpskin/policy/setuphandlers.py:196
 msgid "Actualités du site"
 msgstr "Noticias del sitio"
 
@@ -182,7 +186,7 @@ msgstr "CPSKIN - Flujo de trabajo: actualizar a v1"
 msgid "CPSkin"
 msgstr "CPSkin"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:270
+#: cpskin.core/cpskin/core/browser/controlpanel.py:263
 msgid "CPSkin settings"
 msgstr "Preferencias CPSkin"
 
@@ -311,7 +315,7 @@ msgstr "Cpskin Saludable"
 msgid "Date"
 msgstr "Fecha"
 
-#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:12
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:13
 msgid "Date range for events"
 msgstr "Rango de fechas para eventos"
 
@@ -377,7 +381,7 @@ msgid "Do you want to show lead image on index view ?"
 msgstr "¿Desea mostrar la imagen principal en la vista de inicio?"
 
 #: cpskin.core/cpskin/core/interfaces.py:244
-#: cpskin.core/cpskin/core/upgradehandlers.py:556
+#: cpskin.core/cpskin/core/upgradehandlers.py:555
 msgid "Do you want to use slick instead of flexslider ?"
 msgstr ""
 
@@ -393,6 +397,20 @@ msgstr ""
 #: cpskin/contenttypes/profiles/default/types/Product.xml
 msgid "Edit"
 msgstr "Editar"
+
+#: cpskin.core/cpskin/core/viewlets/footer.pt:16
+msgid "Edit accessibility text"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:251
+#: cpskin.core/cpskin/core/upgradehandlers.py:586
+msgid "Enable a link to the accessibility text in footer."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:250
+#: cpskin.core/cpskin/core/upgradehandlers.py:585
+msgid "Enable accessibility link in footer"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Enable navigation toggle"
@@ -422,7 +440,7 @@ msgstr "Vista previa de contactos facetados"
 msgid "Faceted events preview"
 msgstr "Vista previa de eventos facetados"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:272
+#: cpskin.core/cpskin/core/browser/configure.zcml:288
 msgid "Faceted items leadimage"
 msgstr "Elementos de imagen destacadas facetadas"
 
@@ -532,7 +550,7 @@ msgstr "Etiqueta I Search"
 msgid "I Search Tags are used for webmaster organization of content"
 msgstr "Las etiquetas I Search se utilizan para la organización de contenido para los webmasters"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:12
+#: cpskin.core/cpskin/core/viewlets/footer.pt:27
 msgid "IMIO"
 msgstr "IMIO"
 
@@ -679,7 +697,7 @@ msgstr "Título de imagen principal"
 msgid "Legal notice"
 msgstr "Aviso legal"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:271
+#: cpskin.core/cpskin/core/browser/controlpanel.py:264
 msgid "Lets you change the settings of CPSkin"
 msgstr "Le permite cambiar la configuración de CPSkin"
 
@@ -1066,7 +1084,7 @@ msgstr "Mostrar lema con banner"
 msgid "Simple date for events"
 msgstr "Fecha simple para eventos"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:12
+#: cpskin.core/cpskin/core/viewlets/footer.pt:27
 msgid "Site created in collaboration with"
 msgstr "Sitio creado en colaboración con"
 
@@ -1087,7 +1105,11 @@ msgstr ""
 msgid "Slider Slick"
 msgstr ""
 
-#: cpskin.core/cpskin/core/vocabulary.py:312
+#: cpskin.core/cpskin/core/vocabulary.py:276
+msgid "Slider Slick Full Width"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:323
 msgid "Slider count"
 msgstr "Contar diapositiva"
 
@@ -1096,7 +1118,7 @@ msgstr "Contar diapositiva"
 msgid "Slider timer"
 msgstr "Temporizador de dispositiva"
 
-#: cpskin.core/cpskin/core/vocabulary.py:321
+#: cpskin.core/cpskin/core/vocabulary.py:332
 msgid "Slider top"
 msgstr "Tapa de dispositiva"
 
@@ -1104,7 +1126,7 @@ msgstr "Tapa de dispositiva"
 msgid "Slider type"
 msgstr "Tipo de dispositiva"
 
-#: cpskin.core/cpskin/core/vocabulary.py:303
+#: cpskin.core/cpskin/core/vocabulary.py:314
 msgid "Slider vertical"
 msgstr "Dispositiva vertical"
 
@@ -1120,7 +1142,7 @@ msgstr "Dispositivas con carrusel"
 msgid "Slider with elements count choice"
 msgstr "Dispositivas con elementos el cual cuenta la elección"
 
-#: cpskin.core/cpskin/core/vocabulary.py:294
+#: cpskin.core/cpskin/core/vocabulary.py:305
 msgid "Slider without images"
 msgstr "Dispositivas sin imagenes"
 
@@ -1194,6 +1216,10 @@ msgstr "Este texto será visible en la vista de inicio para el enlace a esta col
 msgid "Ticketing"
 msgstr "Venta de entradas"
 
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "True"
+msgstr ""
+
 #: cpskin.agenda/cpskin/agenda/faceted/views/preview-events.pt:46
 #: cpskin.agenda/cpskin/agenda/faceted/views/view-agenda.pt:46
 msgid "Un maximum de ${limit} jours comprenant des &eacute;v&eacute;nements est affich&eacute;."
@@ -1247,11 +1273,11 @@ msgstr "Desinstalar el paquete cpskin.minisite"
 msgid "Uninstalls the cpskin.slider package"
 msgstr "Desinstalar el paquete cpskin.slider"
 
-#: cpskin.core/cpskin/core/vocabulary.py:285
+#: cpskin.core/cpskin/core/vocabulary.py:296
 msgid "Unique highlighted item"
 msgstr "No se pudo resaltar elemento"
 
-#: cpskin.core/cpskin/core/vocabulary.py:276
+#: cpskin.core/cpskin/core/vocabulary.py:287
 msgid "Unique slider with carousel on title"
 msgstr "Diapositivas única con carrusel en el título"
 
@@ -1284,7 +1310,7 @@ msgid "Use related contacts fields for Event"
 msgstr "Usar campos de contactos relacionados para el Evento"
 
 #: cpskin.core/cpskin/core/interfaces.py:243
-#: cpskin.core/cpskin/core/upgradehandlers.py:555
+#: cpskin.core/cpskin/core/upgradehandlers.py:554
 msgid "Use slick for slider"
 msgstr ""
 
@@ -1297,7 +1323,7 @@ msgstr "Enlaces de interés"
 msgid "View"
 msgstr "Vista"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:437
+#: cpskin.core/cpskin/core/browser/configure.zcml:453
 msgid "View Document with description"
 msgstr "Ver Documento con descripción"
 
@@ -1323,7 +1349,7 @@ msgstr "Campos visibles para el viewlet anterior"
 msgid "Visible fields for below viewlet"
 msgstr "Campos visibles para el viewlet debajo"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:486
+#: cpskin.core/cpskin/core/browser/folderview.py:489
 msgid "Voir l'ensemble des"
 msgstr "Ver todos"
 
@@ -1331,7 +1357,7 @@ msgstr "Ver todos"
 msgid "Vue index avec collections configurée."
 msgstr "Vista de inicio con colecciones configuradas."
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:255
+#: cpskin.core/cpskin/core/browser/configure.zcml:271
 msgid "Vue index avec collections et slider"
 msgstr "Vista de inicio con colecciones y diapositivas"
 
@@ -1423,7 +1449,7 @@ msgstr "cpskin.contenttypes"
 msgid "cpskin.core: default"
 msgstr "cpskin.core: predeterminado"
 
-#: cpskin.core/cpskin/core/profiles.zcml:633
+#: cpskin.core/cpskin/core/profiles.zcml:650
 msgid "cpskin.core: init"
 msgstr "cpskin.core: init"
 
@@ -1637,7 +1663,7 @@ msgstr "Seguro, confiable y rápido, ${Firefox} es gratuito y fácil de instalar
 msgid "flux_rss"
 msgstr "Fuente RSS"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:13
+#: cpskin.core/cpskin/core/viewlets/footer.pt:28
 msgid "free license"
 msgstr "licencia libre"
 
@@ -1883,7 +1909,7 @@ msgid "slidesToShow_small (slick)"
 msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:13
+#: cpskin.core/cpskin/core/viewlets/footer.pt:28
 msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr "https://es.wikipedia.org/wiki/Free_Software_Foundation"
 
@@ -1902,7 +1928,7 @@ msgstr "Descargar este evento en formato iCal"
 msgid "title_cpskin_actions_menu"
 msgstr "Configuraciones para el elemento de contenido actual"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:12
+#: cpskin.core/cpskin/core/viewlets/footer.pt:27
 msgid "under"
 msgstr "bajo"
 
@@ -1916,16 +1942,16 @@ msgstr "Visual"
 msgid "with_the_following_comment"
 msgstr "Con el siguiente comentario"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:659
-#: cpskin.policy/cpskin/policy/setuphandlers.py:266
+#: cpskin.core/cpskin/core/browser/folderview.py:662
+#: cpskin.policy/cpskin/policy/setuphandlers.py:303
 msgid "À la une"
 msgstr "Destacado"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:714
-#: cpskin.policy/cpskin/policy/setuphandlers.py:215
+#: cpskin.core/cpskin/core/browser/folderview.py:717
+#: cpskin.policy/cpskin/policy/setuphandlers.py:242
 msgid "Événements"
 msgstr "Éventos"
 
-#: cpskin.policy/cpskin/policy/setuphandlers.py:216
+#: cpskin.policy/cpskin/policy/setuphandlers.py:243
 msgid "Événements du site"
 msgstr "Éventos del sitio"
