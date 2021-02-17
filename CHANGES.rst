@@ -4,7 +4,8 @@ Changelog
 0.5.37 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translation files
+  [boulch]
 
 
 0.5.36 (2020-09-14)
