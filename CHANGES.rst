@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.37 (unreleased)
+0.5.37 (2021-02-17)
 -------------------
 
 - Update translation files
