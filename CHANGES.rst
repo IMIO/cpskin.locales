@@ -4,7 +4,8 @@ Changelog
 0.5.38 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- WEB-3260: Add translations for privacy overlay
+  [laulaz]
 
 
 0.5.37 (2021-02-17)

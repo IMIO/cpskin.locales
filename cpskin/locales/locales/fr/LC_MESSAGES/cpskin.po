@@ -233,7 +233,7 @@ msgstr "Choisir la vitesse du scroll"
 
 #: cpskin.core/cpskin/core/browser/privacy.py:33
 msgid "Choose to opt in or out of various pieces of functionality.<br/>If you want, you can <a href=\"${policy_url}\">read our cookie policy</a>."
-msgstr ""
+msgstr "Choisissez d'activer ou de désactiver certaines fonctionnalités.<br/>Si vous le souhaitez, vous pouvez <a href=\"${policy_url}\">lire notre politique en matière de cookies</a>."
 
 #: cpskin.core/cpskin/core/interfaces.py:92
 #: cpskin.core/cpskin/core/setuphandlers.py:368
@@ -967,7 +967,7 @@ msgstr "Retirer ce contenu de la vue"
 
 #: cpskin.core/cpskin/core/browser/privacy.py:40
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:15
 msgid "Schedule details"
@@ -1213,7 +1213,7 @@ msgstr "Aucun mini site n'est configuré"
 
 #: cpskin.core/cpskin/core/privacy.py:66
 msgid "This feature requires cookies acceptation.<br/>Please <a class=\"consent-link\" href=\"${consent_url}\">review your cookies preferences</a>."
-msgstr ""
+msgstr "Cette fonctionnalité nécessite l'acceptation des cookies.<br/>Veuillez <a class=\"consent-link\" href=\"${consent_url}\">revoir vos préférences en matière de cookies</a>."
 
 #: cpskin.core/cpskin/core/behaviors/organization.py:27
 msgid "This image is shown on directory view when mouse hovers the card."
@@ -1420,7 +1420,7 @@ msgstr "Vous devez accepter les Mentions Légales pour pouvoir créer un compte.
 
 #: cpskin.core/cpskin/core/browser/privacy.py:54
 msgid "Your preferences have been saved."
-msgstr ""
+msgstr "Vos préférences ont été sauvegardées."
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
 msgid "add a collection portlet with slider view"
