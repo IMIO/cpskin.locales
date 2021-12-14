@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.38 (unreleased)
+0.5.38 (2021-12-14)
 -------------------
 
 - WEB-3260: Add translations for privacy overlay
