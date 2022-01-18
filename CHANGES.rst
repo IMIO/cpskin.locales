@@ -4,7 +4,7 @@ Changelog
 0.5.39 (unreleased)
 -------------------
 
-- SUP-21477: Allow to override collective.privacy translations
+- SUP-21477: Override some collective.privacy translations
   [laulaz]
 
 
