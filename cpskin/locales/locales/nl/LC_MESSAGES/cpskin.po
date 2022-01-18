@@ -40,6 +40,11 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/privacy.py:90
+#: cpskin.core/cpskin/core/viewlets/privacy.pt:15
+msgid "Accept all"
+msgstr ""
+
 #: cpskin.core/cpskin/core/viewlets/footer.pt:12
 msgid "Accessibility"
 msgstr ""
@@ -228,8 +233,8 @@ msgstr ""
 msgid "Choose the scroll speed"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/privacy.py:33
-msgid "Choose to opt in or out of various pieces of functionality.<br/>If you want, you can <a href=\"${policy_url}\">read our cookie policy</a>."
+#: cpskin.core/cpskin/core/browser/privacy.py:58
+msgid "Choose to opt in or out of cookies use.<br/>Our <a href=\"${policy_url}\">cookies policy</a> can help you choose."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:92
@@ -305,6 +310,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:263
 msgid "Contenu retiré de la vue index."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/privacy.py:50
+msgid "Cookies choice"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/pages.py:590
@@ -440,7 +449,7 @@ msgstr ""
 msgid "Faceted events preview"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:315
+#: cpskin.core/cpskin/core/browser/configure.zcml:332
 msgid "Faceted items leadimage"
 msgstr ""
 
@@ -930,8 +939,17 @@ msgstr ""
 msgid "Product with specifications"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/privacy.pt:16
+msgid "Read more and manage settings"
+msgstr ""
+
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
 msgid "Read-only list of minisites."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/privacy.py:97
+#: cpskin.core/cpskin/core/viewlets/privacy.pt:19
+msgid "Refuse all"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:129
@@ -962,8 +980,8 @@ msgstr ""
 msgid "Remove this content from folder view"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/privacy.py:40
-msgid "Save"
+#: cpskin.core/cpskin/core/browser/privacy.py:73
+msgid "Save my choices"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:15
@@ -1208,7 +1226,7 @@ msgstr ""
 msgid "There are no mini sites configured."
 msgstr ""
 
-#: cpskin.core/cpskin/core/privacy.py:66
+#: cpskin.core/cpskin/core/privacy.py:68
 msgid "This feature requires cookies acceptation.<br/>Please <a class=\"consent-link\" href=\"${consent_url}\">review your cookies preferences</a>."
 msgstr ""
 
@@ -1218,6 +1236,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/organization.py:21
 msgid "This image is shown on directory view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/privacy.pt:5
+msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:109
@@ -1335,7 +1357,7 @@ msgstr ""
 msgid "View"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:480
+#: cpskin.core/cpskin/core/browser/configure.zcml:497
 msgid "View Document with description"
 msgstr ""
 
@@ -1369,7 +1391,7 @@ msgstr "Alle"
 msgid "Vue index avec collections configurée."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:298
+#: cpskin.core/cpskin/core/browser/configure.zcml:315
 msgid "Vue index avec collections et slider"
 msgstr ""
 
@@ -1415,7 +1437,7 @@ msgstr ""
 msgid "You need to accept our legal terms and conditions."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/privacy.py:54
+#: cpskin.core/cpskin/core/browser/privacy.py:87
 msgid "Your preferences have been saved."
 msgstr ""
 
@@ -1465,7 +1487,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:659
+#: cpskin.core/cpskin/core/profiles.zcml:677
 msgid "cpskin.core: init"
 msgstr ""
 
