@@ -46,7 +46,7 @@ msgstr "Afficher dans le 4ème niveau du menu horizontal"
 #: cpskin.core/cpskin/core/browser/privacy.py:90
 #: cpskin.core/cpskin/core/viewlets/privacy.pt:15
 msgid "Accept all"
-msgstr ""
+msgstr "Tout accepter"
 
 #: cpskin.core/cpskin/core/viewlets/footer.pt:12
 msgid "Accessibility"
@@ -238,7 +238,7 @@ msgstr "Choisir la vitesse du scroll"
 
 #: cpskin.core/cpskin/core/browser/privacy.py:58
 msgid "Choose to opt in or out of cookies use.<br/>Our <a href=\"${policy_url}\">cookies policy</a> can help you choose."
-msgstr ""
+msgstr "Choisissez d'accepter ou de refuser certains cookies.<br/>Notre <a href=\"${policy_url}\">politique en matière de cookies</a> peut vous aider à faire ce choix."
 
 #: cpskin.core/cpskin/core/interfaces.py:92
 #: cpskin.core/cpskin/core/setuphandlers.py:368
@@ -317,7 +317,7 @@ msgstr "Contenu retiré de la vue index."
 
 #: cpskin.core/cpskin/core/browser/privacy.py:50
 msgid "Cookies choice"
-msgstr ""
+msgstr "Choix des cookies"
 
 #: cpskin.core/cpskin/core/browser/pages.py:590
 msgid "Cpskin Healthy"
@@ -944,7 +944,7 @@ msgstr "Produit avec specifications"
 
 #: cpskin.core/cpskin/core/viewlets/privacy.pt:16
 msgid "Read more and manage settings"
-msgstr ""
+msgstr "En savoir plus et personnaliser"
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
 msgid "Read-only list of minisites."
@@ -953,7 +953,7 @@ msgstr "Liste des minisites en lecture seule"
 #: cpskin.core/cpskin/core/browser/privacy.py:97
 #: cpskin.core/cpskin/core/viewlets/privacy.pt:19
 msgid "Refuse all"
-msgstr ""
+msgstr "Tout refuser"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:129
 msgid "Related"
@@ -985,7 +985,7 @@ msgstr "Retirer ce contenu de la vue"
 
 #: cpskin.core/cpskin/core/browser/privacy.py:73
 msgid "Save my choices"
-msgstr ""
+msgstr "Enregistrer mes choix"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:15
 msgid "Schedule details"
@@ -1243,7 +1243,7 @@ msgstr "Cette image est visible sur la fiche dans l'annuaire."
 
 #: cpskin.core/cpskin/core/viewlets/privacy.pt:5
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
-msgstr ""
+msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (lecture de vidéos, affichage de plan et de contenus issus des réseaux sociaux notamment)."
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:109
 msgid "This text will be visible on index view for link to this collection"
