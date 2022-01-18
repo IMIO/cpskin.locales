@@ -1231,7 +1231,7 @@ msgid "There are no mini sites configured."
 msgstr "No hay mini sitios configurados."
 
 #: cpskin.core/cpskin/core/privacy.py:68
-msgid "This feature requires cookies acceptation.<br/>Please <a class=\"consent-link\" href=\"${consent_url}\">review your cookies preferences</a>."
+msgid "This feature requires cookies acceptation.<br/><a class=\"consent-link\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/organization.py:27

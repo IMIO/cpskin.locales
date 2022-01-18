@@ -1230,8 +1230,8 @@ msgid "There are no mini sites configured."
 msgstr "Aucun mini site n'est configuré"
 
 #: cpskin.core/cpskin/core/privacy.py:68
-msgid "This feature requires cookies acceptation.<br/>Please <a class=\"consent-link\" href=\"${consent_url}\">review your cookies preferences</a>."
-msgstr "Cette fonctionnalité nécessite l'acceptation des cookies.<br/>Veuillez <a class=\"consent-link\" href=\"${consent_url}\">revoir vos préférences en matière de cookies</a>."
+msgid "This feature requires cookies acceptation.<br/><a class=\"consent-link\" href=\"${consent_url}\">Review your cookies preferences</a>."
+msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/organization.py:27
 msgid "This image is shown on directory view when mouse hovers the card."
