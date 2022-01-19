@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.39 (unreleased)
+0.5.39 (2022-01-19)
 -------------------
 
 - SUP-21477: Override some collective.privacy translations
