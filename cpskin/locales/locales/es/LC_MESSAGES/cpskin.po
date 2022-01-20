@@ -320,6 +320,10 @@ msgstr "Contenido eliminado de la vista de inicio."
 msgid "Cookies choice"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/footer.pt:19
+msgid "Cookies preferences"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/pages.py:590
 msgid "Cpskin Healthy"
 msgstr "Cpskin Saludable"
@@ -563,7 +567,7 @@ msgstr "Etiqueta I Search"
 msgid "I Search Tags are used for webmaster organization of content"
 msgstr "Las etiquetas I Search se utilizan para la organización de contenido para los webmasters"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "IMIO"
 msgstr "IMIO"
 
@@ -1114,7 +1118,7 @@ msgstr "Mostrar lema con banner"
 msgid "Simple date for events"
 msgstr "Fecha simple para eventos"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "Site created in collaboration with"
 msgstr "Sitio creado en colaboración con"
 
@@ -1230,7 +1234,7 @@ msgstr "Texto que reemplazará todo su texto antiguo en RichTextValue"
 msgid "There are no mini sites configured."
 msgstr "No hay mini sitios configurados."
 
-#: cpskin.core/cpskin/core/privacy.py:68
+#: cpskin.core/cpskin/core/privacy.py:71
 msgid "This feature requires cookies acceptation.<br/><a class=\"consent-link\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr ""
 
@@ -1705,7 +1709,7 @@ msgstr "Seguro, confiable y rápido, ${Firefox} es gratuito y fácil de instalar
 msgid "flux_rss"
 msgstr "Fuente RSS"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:28
+#: cpskin.core/cpskin/core/viewlets/footer.pt:33
 msgid "free license"
 msgstr "licencia libre"
 
@@ -1951,7 +1955,7 @@ msgid "slidesToShow_small (slick)"
 msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:28
+#: cpskin.core/cpskin/core/viewlets/footer.pt:33
 msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr "https://es.wikipedia.org/wiki/Free_Software_Foundation"
 
@@ -1970,7 +1974,7 @@ msgstr "Descargar este evento en formato iCal"
 msgid "title_cpskin_actions_menu"
 msgstr "Configuraciones para el elemento de contenido actual"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "under"
 msgstr "bajo"
 

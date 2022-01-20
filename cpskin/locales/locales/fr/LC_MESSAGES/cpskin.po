@@ -319,6 +319,10 @@ msgstr "Contenu retiré de la vue index."
 msgid "Cookies choice"
 msgstr "Choix des cookies"
 
+#: cpskin.core/cpskin/core/viewlets/footer.pt:19
+msgid "Cookies preferences"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/pages.py:590
 msgid "Cpskin Healthy"
 msgstr "Santé de Cpskin"
@@ -562,7 +566,7 @@ msgstr "Mots clés cachés : Je trouve"
 msgid "I Search Tags are used for webmaster organization of content"
 msgstr "Les mots clés cachés - Je trouve - permettent d'afficher des éléments dans la navigation par facettes"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "IMIO"
 msgstr "IMIO"
 
@@ -1113,7 +1117,7 @@ msgstr "Afficher le slogan avec le banner"
 msgid "Simple date for events"
 msgstr "Date simple pour les événements"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "Site created in collaboration with"
 msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
@@ -1229,7 +1233,7 @@ msgstr "Texte qui va remplacer l'ancien texte"
 msgid "There are no mini sites configured."
 msgstr "Aucun mini site n'est configuré"
 
-#: cpskin.core/cpskin/core/privacy.py:68
+#: cpskin.core/cpskin/core/privacy.py:71
 msgid "This feature requires cookies acceptation.<br/><a class=\"consent-link\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr "Cette fonctionnalité nécessite l'acceptation des cookies.<br/><a class=\"consent-link\" href=\"${consent_url}\">Modifier vos préférences en matière de cookies</a>."
 
@@ -1704,7 +1708,7 @@ msgstr "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à instal
 msgid "flux_rss"
 msgstr "Flux RSS"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:28
+#: cpskin.core/cpskin/core/viewlets/footer.pt:33
 msgid "free license"
 msgstr "licence libre"
 
@@ -1950,7 +1954,7 @@ msgid "slidesToShow_small (slick)"
 msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:28
+#: cpskin.core/cpskin/core/viewlets/footer.pt:33
 msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 
@@ -1969,7 +1973,7 @@ msgstr "Télécharger cet événement au format iCal"
 msgid "title_cpskin_actions_menu"
 msgstr "Configuration pour le type de contenu courrant"
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "under"
 msgstr "sous"
 

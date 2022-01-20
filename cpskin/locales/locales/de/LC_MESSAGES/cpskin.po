@@ -318,6 +318,10 @@ msgstr ""
 msgid "Cookies choice"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/footer.pt:19
+msgid "Cookies preferences"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/pages.py:590
 msgid "Cpskin Healthy"
 msgstr ""
@@ -561,7 +565,7 @@ msgstr ""
 msgid "I Search Tags are used for webmaster organization of content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "IMIO"
 msgstr ""
 
@@ -1112,7 +1116,7 @@ msgstr ""
 msgid "Simple date for events"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "Site created in collaboration with"
 msgstr ""
 
@@ -1228,7 +1232,7 @@ msgstr ""
 msgid "There are no mini sites configured."
 msgstr ""
 
-#: cpskin.core/cpskin/core/privacy.py:68
+#: cpskin.core/cpskin/core/privacy.py:71
 msgid "This feature requires cookies acceptation.<br/><a class=\"consent-link\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr ""
 
@@ -1788,7 +1792,7 @@ msgstr ""
 msgid "flux_rss"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:28
+#: cpskin.core/cpskin/core/viewlets/footer.pt:33
 msgid "free license"
 msgstr ""
 
@@ -2072,7 +2076,7 @@ msgid "slidesToShow_small (slick)"
 msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:28
+#: cpskin.core/cpskin/core/viewlets/footer.pt:33
 msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr ""
 
@@ -2091,7 +2095,7 @@ msgstr ""
 msgid "title_cpskin_actions_menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:27
+#: cpskin.core/cpskin/core/viewlets/footer.pt:32
 msgid "under"
 msgstr ""
 
