@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.40 (unreleased)
+0.5.40 (2022-01-20)
 -------------------
 
 - Add a missing translation for cookies preferences in colophon
