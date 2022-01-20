@@ -321,7 +321,7 @@ msgstr "Choix des cookies"
 
 #: cpskin.core/cpskin/core/viewlets/footer.pt:19
 msgid "Cookies preferences"
-msgstr ""
+msgstr "Gestion des cookies"
 
 #: cpskin.core/cpskin/core/browser/pages.py:590
 msgid "Cpskin Healthy"

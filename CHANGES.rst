@@ -4,7 +4,8 @@ Changelog
 0.5.40 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add a missing translation for cookies preferences in colophon
+  [boulch]
 
 
 0.5.39 (2022-01-19)
