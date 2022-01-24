@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.41 (unreleased)
+0.5.41 (2022-01-24)
 -------------------
 
 - Fix translation
