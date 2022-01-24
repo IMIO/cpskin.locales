@@ -1247,7 +1247,7 @@ msgstr "Cette image est visible sur la fiche dans l'annuaire."
 
 #: cpskin.core/cpskin/core/viewlets/privacy.pt:5
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
-msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (lecture de vidéos, affichage de plan et de contenus issus des réseaux sociaux notamment)."
+msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (lecture de vidéos, affichage de plans et de contenus issus des réseaux sociaux notamment)."
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:109
 msgid "This text will be visible on index view for link to this collection"

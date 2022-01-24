@@ -4,7 +4,8 @@ Changelog
 0.5.41 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Fix translation
+  [laulaz]
 
 
 0.5.40 (2022-01-20)
